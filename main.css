@@ -1,0 +1,47 @@
+html {
+	background-color: #51E8E9;
+}
+.profile-container {
+	width: 600px;
+	margin: auto;
+	border: 1px solid silver;
+	border-radius: 10px;
+	padding: 20px;
+	margin-top: 100px;
+	background-color: #fff;
+}
+
+.text-container {
+	width: 400px;
+	
+}
+
+.nameActive {
+	background-color: #fff;
+	width: 400px;
+	padding: 5px;
+}
+
+.name {
+	position: absolute;
+	width: 400px;
+	padding: 5px;
+	background-color: #fff;
+}
+
+.bioActive {
+	background-color: #fff;
+	width: 400px;
+	padding: 5px;
+}
+
+.bio {
+	position: absolute;
+	width: 400px;
+	padding: 5px;
+	background-color: #fff;
+}
+
+input {
+	width: 400px;
+}
