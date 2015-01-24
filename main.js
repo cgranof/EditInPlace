@@ -1,6 +1,5 @@
 $(document).on('ready', function() {
 
-// name input 
     $('.name').mouseenter(function(){
   		$('.name').css('background-color', '#FC9553');
       $('.name').css('color', 'grey');
@@ -12,10 +11,11 @@ $(document).on('ready', function() {
     });
 
  
-
    $('.name').on('click', function(){
       $('.name').hide();
-   })
+   });
+
+  
 
 // bio input
 
@@ -36,7 +36,7 @@ $(document).on('ready', function() {
 
 
 
-  	
+	
 
   	
 
